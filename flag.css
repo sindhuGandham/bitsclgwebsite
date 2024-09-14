@@ -1,0 +1,14 @@
+#box1{
+    border: solid 1px;
+    height: 180px;
+    background-color: orange;
+}
+#box2{
+    border: solid 1px;
+    height: 180px;
+}
+#box3{
+    border: solid 1px;
+    height: 180px;
+    background-color: green;
+}
